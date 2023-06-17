@@ -1,5 +1,6 @@
 import React from 'react'
 
+//! we already did the exercise 2 in 1 by adding map function.
 //TODO got all the info. as props in the component.
 const Content = ({content}) => {
   return (

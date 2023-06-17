@@ -1,5 +1,6 @@
 import Content from "./Content";
 import Header from "./Header";
+import Total from "./Total";
 import "./styles.css";
 
 const App = () => {
@@ -26,7 +27,7 @@ const App = () => {
     <div>
       <Header course={course}/>
       <Content content={content}/>
-      {/* <p>Number of exercises {exercises1 + exercises2 + exercises3}</p> */}
+      <Total content = {content}/>
     </div>
   )
 }

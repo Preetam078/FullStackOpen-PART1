@@ -13,6 +13,8 @@ const App = () => {
   // const part3 = 'State of a component'
   // const exercises3 = 14
 
+
+  //TODO We already did this exercise in 1.1 by declaring the below array of objects.
   //TODO wrapped all the info. in an array of object to pass the hole as an object.
   const content = [
     {part:'Fundamentals of React',exercises:10},

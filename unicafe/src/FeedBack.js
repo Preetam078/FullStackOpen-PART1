@@ -1,5 +1,6 @@
 import React from 'react'
 
+//TODO: these all are the functions as objects in the props
 const FeedBack = ({clickGood, clickNeutral, clickBad}) => {
   return (
     <div>

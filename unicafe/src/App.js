@@ -22,7 +22,7 @@ const App = () => {
   const clickBad = () => {
     setBad(bad+1)
   }
-
+  //TODO we have passed all the functions as props in the components.
   return (
     <div className='App'>
       <h1>Give Feedback</h1>
